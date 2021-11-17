@@ -1,6 +1,8 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
 # CLARIAH Interest Group on Annotation Infrastructure
 
-Development in the [CLARIAH](https://clariah.nl) project is coordinated through themed [Interest Groups](https://github.com/CLARIAH/IG). This repository is intended to organize the work, output and documentation of the CLARIAH Interest Group (IG) on Annotation Infrastructure. Other [CLARIAH Interest Groups](#other-interets-groups) are listed below. 
+Development in the [CLARIAH](https://clariah.nl) project is coordinated through themed [Interest Groups](https://github.com/CLARIAH/IG). This repository is intended to organize the work, output and documentation of the CLARIAH Interest Group (IG) on Annotation Infrastructure. Other [CLARIAH Interest Groups](#other-interets-groups) are listed below.
 
 ## Introduction
 
